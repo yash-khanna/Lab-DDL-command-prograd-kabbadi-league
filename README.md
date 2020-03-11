@@ -46,7 +46,7 @@
 
 > 16. **Add a new column**
 
-> 17. **Drop teble city**
+> 17. **Drop table city**
 
 > 18. **Drop table innings**
 
