@@ -4,11 +4,13 @@
 
 
 
+![1](https://user-images.githubusercontent.com/58466121/76390689-dbf79680-6393-11ea-80e8-0f13adeceda3.png)
 
-![sql](https://user-images.githubusercontent.com/58466121/76389844-3c85d400-6392-11ea-875f-8cd9676219b2.JPG)
+
+![2](https://user-images.githubusercontent.com/58466121/76389844-3c85d400-6392-11ea-875f-8cd9676219b2.JPG)
 
 
-![2](https://user-images.githubusercontent.com/58466121/76390689-dbf79680-6393-11ea-80e8-0f13adeceda3.png)
+
 
 
 
