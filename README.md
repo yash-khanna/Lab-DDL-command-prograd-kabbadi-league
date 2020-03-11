@@ -11,7 +11,7 @@
 ![2](https://user-images.githubusercontent.com/58466121/76390689-dbf79680-6393-11ea-80e8-0f13adeceda3.png)
 
 
-## STEPS TO BE FOLLOWED
+## PROGRESSION - 1
 
 
 > 1. **Create table city**
@@ -37,6 +37,8 @@
 > 11. **Create table outcome**
 
 > 12. **Create table game**
+
+## PROGRESSION - 2
 
 > 13. **Change column name**
 
