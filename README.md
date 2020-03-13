@@ -43,19 +43,12 @@
 
 ## PROGRESSION - 2
 
-> 13. **Change column name**
 
-> 14. **Change table name**
+> 13. **Drop table city**
 
-> 15. **Delete a column**
+> 14. **Drop table innings**
 
-> 16. **Add a new column**
+> 15. **Drop table skill**
 
-> 17. **Drop table city**
-
-> 18. **Drop table innings**
-
-> 19. **Drop table skill**
-
-> 20. **Drop table extra_type**
+> 16. **Drop table extra_type**
 
