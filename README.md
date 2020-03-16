@@ -1,8 +1,12 @@
 ![Image description](https://i1.faceprep.in/ProGrad/face-logo-resized.png)
 
-# ProGrad Oracle Lab | ProGrad Kabbadi League
+# ProGrad Lab | ProGrad Pro Kabbadi League 
 
+ProGrad Pro Kabbadi League is gonna begin in a month from now. Our ProGrad organizers are pretty excited to see the champions. We have nearly 20 teams participating in the league. So, there's a lot of data like players, scores etc that need to be collected and stored to decide the winners at each level.
 
+One of our Database specialist has done half the job by creating an ER diagram to visualise the database structure. That's when we thought we could take your help to take this project to completion as you have just started working with databases.
+
+Can you give it a try?
 
 
 ## What Should You Do
@@ -15,7 +19,7 @@ Practice Oracle SQL - DDL Statements.
 
 ## How To Submit
 ```
-Upon completion,run the following commands:
+Upon completion, run the following commands:
 
 git add .
 git commit -m "ProGrad ID"
@@ -26,15 +30,19 @@ And finally, create a pull request so your ProGrad Mentor (PM) can review your w
 
 ## Instructions
 
-1. ***Do not erase the written queries.***
-2. ***Use the same file to write all the queries.***
-3. ***Select the entire query and run it to see output.***
-4. ***Save the file as your_file_name.sql and upload it in github.***
+1. ***Do not erase the existing queries.***
+2. ***Use the same file to write all your queries.***
+3. ***Select the entire query and run it to see the output.***
+4. ***Save the file as your_file_name.sql and upload it to github.***
 5. ***You can use ddl-pkl.sql as a reference.***
 
 
 ## Requirements
+
 Oracle 11g Express edition and Oracle SQL Developer
+
+
+# ER Diagram
 
 ![1](https://user-images.githubusercontent.com/58466121/76390689-dbf79680-6393-11ea-80e8-0f13adeceda3.png)
 
@@ -45,14 +53,13 @@ Oracle 11g Express edition and Oracle SQL Developer
 
 ## PROGRESSION - 1
 
+1. Create table city
 
-> 1. **Create table city**
+2. **Create table referee**
 
-> 2. **Create table referee**
+3. **Create table innings**
 
-> 3. **Create table innings**
-
-> 4. **Create table extra_type**
+4. **Create table extra_type**
 
 > 5. **Create table skill**
 
