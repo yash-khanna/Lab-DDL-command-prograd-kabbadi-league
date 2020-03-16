@@ -30,6 +30,7 @@ And finally, create a pull request so your ProGrad Mentor (PM) can review your w
 2. ***Use the same file to write all the queries.***
 3. ***Select the entire query and run it to see output.***
 4. ***Save the file as your_file_name.sql and upload it in github.***
+5. ***You can use ddl-pkl.sql as a reference.***
 
 
 ## Requirements
